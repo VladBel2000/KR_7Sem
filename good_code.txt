@@ -1,0 +1,40 @@
+double a, b = 0, c, d;
+void fun(double  a, double  b)
+{
+	c = a + b;
+	return;
+}
+void fun()
+{
+	double  a = d;
+	fun(a, b);
+}
+class A
+{
+	double aaa;
+	smtwf fwegg;
+	void fun()
+	{
+		double a = d;
+	}
+}
+A aa;
+void main() {
+	double a = 2; 
+	fun(aa.aaa, b); 
+	double b = a + c; 
+	double ba;
+	a = 156153;
+	double q = 10;
+	double w = 6;
+	while(q > w)
+	{
+		q = q - 1;
+		continue;
+	}
+	break;
+
+	A a;
+	A.fun();
+	a.aaa = a;
+}
